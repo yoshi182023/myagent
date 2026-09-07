@@ -274,15 +274,7 @@ In addition to automated unit and integration tests, end-to-end agent decision-m
 
 <table align="center">
   <tr>
-    <td align="center" width="33%">
-      <a href="https://github.com/freeleons">
-        <img src="./assets/jue.webp" width="120" alt="Jameson Wang" /><br />
-        <sub><b>Jameson Wang</b></sub>
-      </a>
-      <br />
-      <a href="https://github.com/freeleons"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-      <a href="https://www.linkedin.com/in/freeleons/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    </td>
+  
     <td align="center" width="33%">
       <a href="https://github.com/shuziyoshi">
         <img src="./assets/shuzi.webp" width="120" alt="Wendy Gong" /><br />
@@ -292,15 +284,7 @@ In addition to automated unit and integration tests, end-to-end agent decision-m
       <a href="https://github.com/yoshi182023"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
       <a href="https://www.linkedin.com/in/yoshi-gong/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/ddgiovinazzo">
-        <img src="./assets/daniel.webp" width="120" alt="Daniel Giovinazzo" /><br />
-        <sub><b>Daniel Giovinazzo</b></sub>
-      </a>
-      <br />
-      <a href="https://github.com/ddgiovinazzo"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-      <a href="https://www.linkedin.com/in/ddgiovinazzo/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    </td>
+  
   </tr>
 </table>
 
