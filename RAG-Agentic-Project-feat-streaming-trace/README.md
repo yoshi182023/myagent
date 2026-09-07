@@ -272,10 +272,7 @@ In addition to automated unit and integration tests, end-to-end agent decision-m
 
 ## 👥 Authors & Team
 
-<table align="center">
 
-  
-    <td align="center" width="33%">
       <a href="https://github.com/shuziyoshi">
         <img src="./assets/shuzi.webp" width="120" alt="Wendy Gong" /><br />
         <sub><b>Wendy Gong</b></sub>
@@ -283,10 +280,9 @@ In addition to automated unit and integration tests, end-to-end agent decision-m
       <br />
       <a href="https://github.com/yoshi182023"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
       <a href="https://www.linkedin.com/in/yoshi-gong/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    </td>
+
   
-  </tr>
-</table>
+
 
 ---
 
