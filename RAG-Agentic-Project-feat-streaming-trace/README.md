@@ -268,18 +268,7 @@ npm test -- --run
 ### 🎯 Agent Evaluation & Golden Task Set
 In addition to automated unit and integration tests, end-to-end agent decision-making, tool routing, and grounded policy retrieval are measured against a concrete 9-task golden set (covering factual policy lookups and graceful out-of-scope refusals). See [`docs/eval.md`](./docs/eval.md) for the benchmark task matrix, scoring criteria, and run logs.
 
----
 
-## 👥 Authors & Team
-
-
-      <a href="https://github.com/shuziyoshi">
-        <img src="./assets/shuzi.webp" width="120" alt="Wendy Gong" /><br />
-        <sub><b>Wendy Gong</b></sub>
-      </a>
-      <br />
-      <a href="https://github.com/yoshi182023"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-      <a href="https://www.linkedin.com/in/yoshi-gong/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
   
 
