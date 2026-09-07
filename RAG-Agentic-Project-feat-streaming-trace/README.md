@@ -273,7 +273,7 @@ In addition to automated unit and integration tests, end-to-end agent decision-m
 ## 👥 Authors & Team
 
 <table align="center">
-  <tr>
+
   
     <td align="center" width="33%">
       <a href="https://github.com/shuziyoshi">
